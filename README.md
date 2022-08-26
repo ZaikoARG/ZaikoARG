@@ -1,3 +1,4 @@
+<img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/ZaikoARG/ZaikoARG/master/assets/avatar.png" />
 ### Hi there 👋
 
 <!--
