@@ -28,7 +28,7 @@ Hi, my name is ZaikoARG and I'm a Software Developer 💻
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 
 ### 📨 Contact Me
-<img height="20" src="https://raw.githubusercontent.com/ZaikoARG/ZaikoARG/master/assets/discord.svg"> **Discord:** ZaikoARG#1187<br />
+<img height="18" src="https://raw.githubusercontent.com/ZaikoARG/ZaikoARG/master/assets/discord.svg"> **Discord:** ZaikoARG#1187<br />
 📧 **Email:** [ZaikoARG@protonmail.com](mailto:ZaikoARG@protonmail.com)
 
 
