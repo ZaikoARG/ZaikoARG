@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, my name is ZaikoARG and I'm a Software Developer 💻
+Hi, I'm ZaikoARG and I'm a Software Developer 💻
 <br />
 <br />
 <br />
@@ -15,6 +15,7 @@ Hi, my name is ZaikoARG and I'm a Software Developer 💻
 ### ⛏️ Projects
 * [TokenGuard](https://github.com/ZaikoARG/TokenGuard) a program for Windows written in Python that aims to mitigate almost 100% the steal of Discord Tokens on your computer. (Outdated)
 * [PyDump](https://github.com/ZaikoARG/PyDump) a cross-platform command line tool written entirely in Python for creating memory dumps of a specific process.
+* [AmcacheParser](https://github.com/ZaikoARG/AmcacheParser) a Windows forensic tool made purely in Python to parse Amcache.hve file.
 * [Labs](https://discord.gg/Q2hrWkH5pg) an anticheat for Minecraft that uses forensic methods to detect cheats after they are executed. (Out of Service)
 
 ### 🔮 Programming Languages
