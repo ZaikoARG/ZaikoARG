@@ -1,4 +1,4 @@
-<img align="left"  style="border-radius: 50%" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/ZaikoARG/ZaikoARG/master/assets/avatar.png" />
+<img align="left"  style="border-radius: 50%" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/ZaikoARG/ZaikoARG/master/assets/avatar_circle.png" />
 
 ### Hi there 👋
 
