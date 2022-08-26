@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, my name is ZaikoARG and I'm a Software Developer 💻
+Hi, I'm ZaikoARG and I'm a Software Developer 💻
 <br />
 <br />
 <br />
