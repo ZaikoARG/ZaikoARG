@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, I'm ZaikoARG and I'm a Software Developer 💻
+Hi, I'm ZaikoARG and I'm a Pentester and Software Developer 💻
 <br />
 <br />
 <br />
