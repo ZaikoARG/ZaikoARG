@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, I'm ZaikoARG and I'm a Pentester and Software Developer 💻
+My name is ZaikoARG and I'm a Computer Science Engineer and a Cybersecurity Enthusiast 💻
 <br />
 <br />
 <br />
@@ -19,15 +19,19 @@ Hi, I'm ZaikoARG and I'm a Pentester and Software Developer 💻
 * [AmcacheParser](https://github.com/ZaikoARG/AmcacheParser) a Windows forensic tool made purely in Python to parse Amcache.hve file.
 * [Labs](https://discord.gg/Q2hrWkH5pg) an anticheat for Minecraft that uses forensic methods to detect cheats after they are executed. (Out of Service)
 
-### 🔮 Programming Languages
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+### 🔮 Programming Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+</p>
+
 
 ### 📨 Contact Me
 <img height="18" src="https://raw.githubusercontent.com/ZaikoARG/ZaikoARG/master/assets/discord.svg"> **Discord:** ZaikoARG#1187<br />
